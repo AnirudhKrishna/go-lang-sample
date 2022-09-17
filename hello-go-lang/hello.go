@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("Hello to GO-LANG!!!")
+	fmt.Println("Hello to GO-LANG!!!")
 }
