@@ -28,6 +28,5 @@ func main() {
 	var ptr *string = &course
 
 	fmt.Println("Pointing course variable at address=", ptr, "which holds this value=", *ptr)
-	// ptr = pointer variable holding the memory address of the course variable
-	//Adding an *before a pointer variable returns the value storedin the variable bein pointed to
+
 }
