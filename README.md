@@ -11,5 +11,6 @@ Pointers are special variables which points to other variables.
 
 -- Adding an *before a pointer variable returns the value storedin the variable bein pointed 
 
--- * when used declaring a variable , creates a pointer variable
--- put (*) in front of pointer in a statement, returns the value in the variable being pointed to
+* when used declaring a variable , creates a pointer variable
+
+put (*) in front of pointer in a statement, returns the value in the variable being pointed to
